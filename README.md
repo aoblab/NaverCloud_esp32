@@ -44,3 +44,12 @@ Upload the php script to the server.
 
 ## ▼ Refer to NAVER CLOUD SFTP Connection for how to connect to the server
 https://www.ncloud.com/support/faq/all/2494
+
+## ▼Enter the host, port, ID, and password for Naver Cloud access and connect.
+![4](https://user-images.githubusercontent.com/32832715/120096039-39782e80-c164-11eb-8d3a-9127e20e0fbc.png)
+
+## ▼And upload the php script.
+post-data.php publishes data to the DB.
+![1](https://user-images.githubusercontent.com/32832715/120096047-44cb5a00-c164-11eb-838f-82d83d89a2c1.png)
+
+esp-chart.php visualizes DB data.
