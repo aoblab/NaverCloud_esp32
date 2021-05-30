@@ -52,3 +52,16 @@ https://www.ncloud.com/support/faq/all/2494
 "post-data.php" publishes data to the DB.
 "esp-chart.php" visualizes DB data.
 ![1](https://user-images.githubusercontent.com/32832715/120096047-44cb5a00-c164-11eb-838f-82d83d89a2c1.png)
+
+
+# 4. ESP32 Preparation
+I am using esp32 to read sensor data and send data to server.
+
+## ▼Required Parts
+- ESP32
+- GY-21
+-winsen ze03-o3
+- 2004 Display
+Connect the O3 sensor to 13 and 15 and the GY-21 sensor to 21 and 22.
+After running, if you connect to "http://IP/esp-chart.php", the following screen appears, success
+![111111111](https://user-images.githubusercontent.com/32832715/120096684-dee0d180-c167-11eb-8a73-3269f32b754a.PNG)
