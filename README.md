@@ -63,5 +63,5 @@ I am using esp32 to read sensor data and send data to server.
 -winsen ze03-o3
 - 2004 Display
 Connect the O3 sensor to 13 and 15 and the GY-21 sensor to 21 and 22.
-After running, if you connect to "http://IP/esp-chart.php", the following screen appears, success
+''After running, if you connect to "http://IP/esp-chart.php", the following screen appears, success
 ![111111111](https://user-images.githubusercontent.com/32832715/120096684-dee0d180-c167-11eb-8a73-3269f32b754a.PNG)
