@@ -36,3 +36,11 @@ CREATE TABLE Sensor (
 )
 ```
 ![3](https://user-images.githubusercontent.com/32832715/120095634-eb622b80-c161-11eb-93a5-d82534f2565b.png)
+## ▼Click Run to create the database.
+![555](https://user-images.githubusercontent.com/32832715/120095993-0a61bd00-c164-11eb-9ba0-94ddf1a23635.png)
+
+# 3. Upload HTTP POST php script
+Upload the php script to the server.
+
+## ▼ Refer to NAVER CLOUD SFTP Connection for how to connect to the server
+https://www.ncloud.com/support/faq/all/2494
