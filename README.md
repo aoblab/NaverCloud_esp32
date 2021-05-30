@@ -26,11 +26,11 @@ https://blog.naver.com/wizzle1/222359884972
 ![2](https://user-images.githubusercontent.com/32832715/120095616-d4233e00-c161-11eb-92ab-85aa44e3a60a.png)
 
 ## Paste the code in the SQL query field and create it.
-CREATE TABLE Sensor (
+'''CREATE TABLE Sensor (
      id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
      value1 VARCHAR(10),
      value2 VARCHAR(10),
      value3 VARCHAR(10),
      reading_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
-)
+)'''
 ![3](https://user-images.githubusercontent.com/32832715/120095634-eb622b80-c161-11eb-93a5-d82534f2565b.png)
